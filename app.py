@@ -118,7 +118,7 @@ with col2:
     ax_knn.set_ylabel('True labels')
     st.pyplot(fig_knn)
 
----
+
 # --- VISUALIZATION SECTION ---
 st.markdown("---")
 st.header("📊 Data Exploration: Feature Relationships")
